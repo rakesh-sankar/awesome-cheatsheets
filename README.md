@@ -95,5 +95,5 @@ A curated list of cheat-sheet that saves a lot of your time for a better things.
    - [Zend Framework 2] (http://zf2cheatsheet.com/)  
 
 - Database
-    - [PostgreSQL]
-        - [local] (https://github.com/rakesh-sankar/awesome-cheatsheets/local/postgresql)
+    - PostgreSQL
+        - [local] (https://github.com/rakesh-sankar/awesome-cheatsheets/tree/master/local/postgresql)
