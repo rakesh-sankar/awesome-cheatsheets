@@ -11,6 +11,7 @@ A curated list of cheat-sheet that saves a lot of your time for a better things.
         - [from Zenspider](http://www.zenspider.com/Languages/Ruby/QuickRef.html)
         - [OpenSSL](https://github.com/augustl/ruby-openssl-cheat-sheet)
     - PHP
+        - [PHP Cheatsheets](http://phpcheatsheets.com/)
         - [from OverAPI](http://overapi.com/php/)
         - [PHP the Right Way](http://www.phptherightway.com/)
         - [PHPDoc](https://github.com/jruzafa/PhpDoc2Cheatsheet)
@@ -75,6 +76,9 @@ A curated list of cheat-sheet that saves a lot of your time for a better things.
     - GITHUB
         - [from tiimgreen](https://github.com/tiimgreen/github-cheat-sheet)
 
+- SVN
+    - [Abbeyworkshop](http://abbeyworkshop.com/howto/misc/svn01/)
+
 - Frontend
     - CSS
         - [Font Awesome](http://fortawesome.github.io/Font-Awesome/cheatsheet/)
@@ -90,3 +94,6 @@ A curated list of cheat-sheet that saves a lot of your time for a better things.
 - Framework
    - [Zend Framework 2] (http://zf2cheatsheet.com/)  
 
+- Database
+    - [PostgreSQL]
+        - [local] (https://github.com/rakesh-sankar/awesome-cheatsheets/local/postgresql)
