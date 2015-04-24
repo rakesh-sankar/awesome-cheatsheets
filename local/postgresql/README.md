@@ -76,6 +76,12 @@ postgres=# \dt
 postgres=# \d <tablename>
 ```
 
+## decribe columns on table
+
+```bash
+postgres=# \d+ <tablename>
+```
+
 ## backup database
 
 ```bash

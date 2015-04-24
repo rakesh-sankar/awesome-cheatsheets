@@ -67,7 +67,7 @@ A curated list of cheat-sheet that saves a lot of your time for a better things.
         - [from tcorral](https://github.com/tcorral/Design-Patterns-in-Javascript)
     - Django
         - [from agiliq](https://github.com/agiliq/django-design-patterns)
-    - [from Cheatography](http://www.cheatography.com/ppesq/cheat-sheets/design-patterns-observer-interpreter-memento/)
+    - [from Cheatography](http://www.cheatography.com/david/cheat-sheets/object-oriented-design/)
 
 - GIT
     - [from Github](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
